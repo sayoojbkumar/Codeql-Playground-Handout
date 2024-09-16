@@ -1,9 +1,8 @@
 /**
  * This is an automatically generated file
- * @name Hello world
+ * @name Class Name
  * @kind problem
  * @problem.severity warning
- * @id java/example/hello-world
  */
 
  import java
