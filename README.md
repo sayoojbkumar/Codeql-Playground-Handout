@@ -36,9 +36,3 @@ Note - Solutions for the CTF will be pushed after the workshop for attendees to 
 [https://github.com/github/codeql/tree/main/java](Pre-defined CodeQL libraries)
 
 [https://codeql.github.com/codeql-standard-libraries/java/](Standard CodeQL libraries for Java)
-
-
-
-### TBD:
-
-- A workshop handout for trainers. 
